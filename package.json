@@ -1,5 +1,5 @@
 {
-  "name": "escpos",
+  "name": "@4keys/escpos",
   "version": "2.4.9",
   "description": "ESC/POS Printer driver for nodejs",
   "main": "index.js",
@@ -33,7 +33,6 @@
   },
   "optionalDependencies": {
     "get-pixels": "*",
-    "serialport": "*",
     "qr-image": "*",
     "usb": "*"
   },
